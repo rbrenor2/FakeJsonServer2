@@ -1,4 +1,6 @@
-{
-    "description":"Banana Pacovan KG",
-    "price": "9.90"
-}
+[
+    {
+        "description":"Banana Pacovan KG",
+        "price": "9.90"
+    }
+]
