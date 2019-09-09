@@ -1,6 +1,7 @@
 {
   "campaings": [
     {
+      "includedCode": 594586,
       "rowId": 765657,
       "campaignCode": 87435,
       "campaignDescription": "This is a campaing description",
@@ -12,6 +13,7 @@
       "fixedPrice": 45
     },
     {
+      "includedCode": 5434535,
       "rowId": 132435,
       "campaignCode": 3454,
       "campaignDescription": "This is a campaing description",
@@ -24,6 +26,7 @@
       "remove": false
     },
     {
+      "includedCode": 233454,
       "rowId": 9843,
       "campaignCode": 5687,
       "campaignDescription": "This is a campaing description",
@@ -35,6 +38,7 @@
       "fixedPrice": 65
     },
     {
+      "includedCode": 466554,
       "rowId": 564357,
       "campaignCode": 5657,
       "campaignDescription": "This is a campaing description",
@@ -47,6 +51,7 @@
       "remove": false
     },
     {
+      "includedCode": 7687455,
       "rowId": 3453,
       "campaignCode": 345,
       "campaignDescription": "This is a campaing description",
